@@ -15,7 +15,7 @@ The HTML webpage in this repository displays the following information:
   - Swimming
   - Playing Games
   - Participate in Online Coding Contest
-  - 
+  - Shopping
 
 ## Usage
 
