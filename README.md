@@ -16,6 +16,7 @@ The HTML webpage in this repository displays the following information:
   - Playing Games
   - Participate in Online Coding Contest
   - Shopping
+  - Sky Diving
 
 ## Usage
 
